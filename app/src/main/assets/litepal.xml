@@ -1,0 +1,11 @@
+<litepal>
+
+    <dbname value = "mr_weather"/>
+    <version value = "1"/>
+    <list>
+        <mapping class = "com.example.yinshuo.mrweather.db.Province"/>
+        <mapping class = "com.example.yinshuo.mrweather.db.City"/>
+        <mapping class = "com.example.yinshuo.mrweather.db.County"/>
+    </list>
+
+</litepal>
